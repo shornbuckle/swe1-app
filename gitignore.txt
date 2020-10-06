@@ -1,0 +1,1 @@
+/Users/seanhornbuckle/Django_Projects/mysite/venv
