@@ -29,7 +29,7 @@ SECRET_KEY = 'rbzxv+#b)+wrvcn_q5*t5_)=jh2^n1z=^92e=)sybk6$oidyij'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sh4986-polls.herokuapp.com']
 
 
 # Application definition
@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+
 ]
 
 MIDDLEWARE = [
