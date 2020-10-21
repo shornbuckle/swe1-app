@@ -9,5 +9,7 @@ before_script:
 script:
   - black --check .
   - coverage run --source=polls manage.py test
+  - flake8 .
+  
 after_script:
   - coveralls
