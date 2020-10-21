@@ -1,1 +1,7 @@
 /Users/seanhornbuckle/Django_Projects/mysite/venv
+
+__pycache__/
+.py[cod]
+db.sqlite3
+staticfiles/
+.coverage
